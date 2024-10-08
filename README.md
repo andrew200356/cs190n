@@ -12,7 +12,7 @@ This repository contains the assignments and discussion sections for **CS190N: M
 
 | Week       | Date          | Topic    |
 |------------|--------------------------|------------------------|
-| 1          | October 4th   | None                              |
+| 1          | October 11th   | None                              |
 
 ## Assignments
 
