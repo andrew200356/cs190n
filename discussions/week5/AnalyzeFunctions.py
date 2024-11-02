@@ -305,7 +305,7 @@ def mergeSentAckedSize(video_sent, video_acked):
 
         # Save the combined data into a dataframe
         combined_df = pd.DataFrame(combined, columns=['video_ts', 'sent_time', 'acked_time', 'video_size', 'duration', 'throughput_per_chunk'])
-        combined_df.to_csv('/home/laasya/cs190n-fall-2024/discussions/week5/results/combined.csv', index=False)
+        combined_df.to_csv('/home/laasya/cs190n-fall-2024/discussions/week5/results/combined.csv', index=False) # change this to your specific directory
     print(totalMismatch) 
     return combined_df
 
