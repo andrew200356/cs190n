@@ -12,10 +12,11 @@ This repository contains the assignments and discussion sections for **CS190N: M
 
 | Week     | Date            | Topic                               |
 |----------|-----------------|-------------------------------------|
-| 1        | October 11th    | Understanding Network Data          |
-| 2        | October 18th    | Exploratory Network Data Analysis   |
-| 3        | October 25th    | netUnicorn                          |
-| 4        | November 1st    | netReplica                          |
+| 2        | October 11th    | Understanding Network Data          |
+| 3        | October 18th    | Exploratory Network Data Analysis   |
+| 4        | October 25th    | netUnicorn                          |
+| 5        | November 1st    | netReplica                          |
+| 6        | November 8th    | Preprocess and train model          |
 
 
 
