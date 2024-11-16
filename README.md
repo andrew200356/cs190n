@@ -4,8 +4,8 @@ This repository contains the assignments and discussion sections for **CS190N: M
 ## Lectures
 
 | Week       | Date            | Topic    |
-|------------|-------------------------------|------------------------|
-| 1          | Oct 2   | Intro                    |
+|------------|-----------------|----------|
+| 1          | Oct 2           | Intro    |
 
 
 ## Discussion Sections
@@ -17,6 +17,8 @@ This repository contains the assignments and discussion sections for **CS190N: M
 | 4        | October 25th    | netUnicorn                          |
 | 5        | November 1st    | netReplica                          |
 | 6        | November 8th    | Preprocess and train model          |
+| 7        | November 15th   | Fugu                                |
+
 
 
 
