@@ -5,7 +5,7 @@
 Submit a text/pdf/markdown PDF to the [Canvas submission](https://ucsb.instructure.com/courses/15801/assignments/185659) that has answers to the tasks described within this [notebook](./training_a_classifier.ipynb).
 
 ### Task 1a
-The client IP in these packet captures is 172.17.0.2, discard the background traffic and retain only the packets with a source or destination IP equal to 172.17.0.2. 
+The client IP in these packet captures is 172.17.0.4, discard the background traffic and retain only the packets with a source or destination IP equal to 172.17.0.4. 
 
 ### Task 1b
 Now we will filter these dataframes to only include TCP traffic (protocol 6), and calculate the TCP payload length. This new column will be called `tcp_len` which represents the length of the TCP payload. This is important because it helps us differentiate packets carrying data from the acknowledgement packets. The TCP length can be calculated as the difference between the IP Packet Length and the sum of the IP Header Length and TCP Header Length.
